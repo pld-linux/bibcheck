@@ -2,7 +2,7 @@ Summary:	Applies heuristic checks to BibTeX files
 Summary(pl):	Heurystyczne sprawdzanie plików BibTeXa
 Name:		bibcheck
 Version:	0.10
-Release:	0.9
+Release:	1
 License:	GPL v2
 Group:		Applications
 Source0:	ftp://ftp.math.utah.edu/pub/tex/bib/%{name}-%{version}.tar.bz2
