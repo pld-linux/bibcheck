@@ -1,4 +1,5 @@
 Summary:	Applies heuristic checks to BibTeX files
+Summary(pl):	Heurystyczne sprawdzanie plików BibTeXa
 Name:		bibcheck
 Version:	0.10
 Release:	0.9
@@ -12,7 +13,10 @@ BuildRequires:	automake
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Applies heuristic checks to BibTeX files
+Applies heuristic checks to BibTeX files.
+
+%description -l pl
+Heurystyczne sprawdzanie plików BibTeXa.
 
 %prep
 %setup -q
