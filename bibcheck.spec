@@ -10,6 +10,7 @@ Source0:	ftp://ftp.math.utah.edu/pub/tex/bib/%{name}-%{version}.tar.bz2
 URL:		http://www.ecst.csuchico.edu/~jacobsd/bib/tools/bibtex.html
 BuildRequires:	autoconf
 BuildRequires:	automake
+BuildRequires:	flex
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
