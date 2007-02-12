@@ -1,5 +1,5 @@
 Summary:	Applies heuristic checks to BibTeX files
-Summary(pl):	Heurystyczne sprawdzanie plików BibTeXa
+Summary(pl.UTF-8):   Heurystyczne sprawdzanie plikÃ³w BibTeXa
 Name:		bibcheck
 Version:	0.10
 Release:	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Applies heuristic checks to BibTeX files.
 
-%description -l pl
-Heurystyczne sprawdzanie plików BibTeXa.
+%description -l pl.UTF-8
+Heurystyczne sprawdzanie plikÃ³w BibTeXa.
 
 %prep
 %setup -q
