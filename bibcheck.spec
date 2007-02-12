@@ -1,5 +1,5 @@
 Summary:	Applies heuristic checks to BibTeX files
-Summary(pl.UTF-8):   Heurystyczne sprawdzanie plików BibTeXa
+Summary(pl.UTF-8):	Heurystyczne sprawdzanie plików BibTeXa
 Name:		bibcheck
 Version:	0.10
 Release:	1
